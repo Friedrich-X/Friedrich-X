@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🚀 Professional Bug Creator & Part-Time Fixer  
+### 🧙‍♂️ Code Poet & Error Whisperer  
+#### 🚧 *If it works, don’t touch it. If it doesn’t, still don’t touch it.*  
 
-<!--
-**Friedrich-X/Friedrich-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 **Currently**  
+- � Studying **Web Development & Web Design** 🎓  
+- 🔨 Breaking things to learn how they work.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 **Interests**  
+- ☕ Turning caffeine into code  
+- 🐛 Debugging the universe  
+- 🤖 Automating my laziness  
+
+---
+
+## 🔧 **Tech Stack**  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, Node.js  
+- **Tools:** Git, VS Code, Figma  
+- **Learning:** React, Tailwind CSS  
+
+---
+
+## 📚 **Philosophy**  
+- Write code that works.  
+- If it doesn’t work, write more code.  
+- If it still doesn’t work, blame the compiler.  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=friedrich-x&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=friedrich-x&layout=compact&theme=radical)  
