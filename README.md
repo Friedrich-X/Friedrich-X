@@ -5,7 +5,7 @@
 ---
 
 ## 🌱 **Currently**  
-- � Studying **Web Development & Web Design** 🎓  
+- 🙇🏼‍♂️ Studying **Web Development & Web Design** 🎓  
 - 🔨 Breaking things to learn how they work.  
 
 ---
