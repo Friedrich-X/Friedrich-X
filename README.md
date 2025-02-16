@@ -19,9 +19,9 @@
 
 ## 🔧 **Tech Stack**  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python, Node.js  
+- **Backend:** Node.js  
 - **Tools:** Git, VS Code, Figma  
-- **Learning:** React, Tailwind CSS  
+- **Learning:** React, Tailwind CSS
 
 ---
 
