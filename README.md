@@ -21,7 +21,7 @@
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js  
 - **Tools:** Git, VS Code, Figma  
-- **Learning:** React, Tailwind CSS
+- **Learning:** PHP, Typescript, React, Tailwind CSS
 
 ---
 
