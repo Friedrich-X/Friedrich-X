@@ -20,7 +20,7 @@
 ## 🔧 **Tech Stack**  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js  
-- **Tools:** Git, VS Code, Figma  
+- **Tools:** Git, Webstorm, Cursor AI, Figma  
 - **Learning:** Typescript, React, Tailwind CSS
 
 ---
