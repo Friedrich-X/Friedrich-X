@@ -18,10 +18,10 @@
 ---
 
 ## 🔧 **Tech Stack**  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React, Typescript, TailwindCSS  
 - **Backend:** Node.js  
 - **Tools:** Git, Webstorm, Cursor AI, Figma  
-- **Learning:** Typescript, React, Tailwind CSS
+- **Learning:** PHP
 
 ---
 
