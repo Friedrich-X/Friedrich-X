@@ -32,5 +32,5 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=friedrich-x&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=friedrich-x&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats-black-nine-66.vercel.app/api?username=friedrich-x&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-black-nine-66.vercel.app/api/top-langs/?username=friedrich-x&layout=compact&theme=radical)  
